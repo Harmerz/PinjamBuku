@@ -1,0 +1,10 @@
+1231231,Pemorgraman Berorientasi Object,03/09/2022,Teknologi
+1238412,Fisika Mekanika,02/09/2022,Pengetahuan
+1292313,Matematika Diskret,01/09/2022,Pengetahuan
+2031231,Bahasa C#,03/09/2022,Teknologi
+2352315,Kalkulus Dasar,01/02/2001,Pengetahuan
+2122331,Harry Potter,01/05/2009,Fiksi
+2365432,Atomic Habits,02/12/2020,Non Fiksi
+2321561,Jangan Dibaca,09/03/2010,Fiksi
+2253154,Bisnis Manajemen,08/08/2008,Non Fiksi
+1231211,Bisnis Manipulasi,08/01/2002,Non Fiksi
